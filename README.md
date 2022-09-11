@@ -20,7 +20,7 @@ You can visit the live site [here](https://jmyacobn.github.io/self-care-center/)
 This project was completed during our third week at Turing. It was our second solo project, and we were given four days to complete it. The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html).
 
 ### Contributors:
-- Jennifer Yacoubian ([GitHub](https://github.com/jmyacobn), [LinkedIn](https://www.linkedin.com/in/jennifer-yacoubian/))
+Jennifer Yacoubian ([GitHub](https://github.com/jmyacobn), [LinkedIn](https://www.linkedin.com/in/jennifer-yacoubian/))
 
 ### Learning Goals:
 - Gain experience building an application that utilizes HTML, CSS and JavaScript
