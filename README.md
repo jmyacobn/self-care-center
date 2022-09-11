@@ -14,8 +14,7 @@ Using JavaScript in conjunction with CSS and HTML, I designed a website that all
 - In the terminal run the command open index.html for initial deployment and interaction with app
 
 ### Preview of App:
-You can visit the live site [here](https://jmyacobn.github.io/self-care-center/). See preview below.
-[insert image]
+You can visit the live site [here](https://jmyacobn.github.io/self-care-center/).
 
 ### Context:
 This project was completed during our third week at Turing. It was our second solo project, and we were given four days to complete it. The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html).
