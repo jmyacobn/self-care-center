@@ -44,6 +44,7 @@ This project was completed during our third week at Turing. It was our second so
 
 ### Challenges:
 - Due to time constraints, I was not able to add edit message functionality for edit buttons or add the input form for adding a custom messages. I would like to add these features so that users can fully customize their messages.
+- Due to time constraints, I did not have the opportunity to refactor my HTML, CSS, and Javascript files. In the future, I will consider this while pre-planning and calendaring my time.
 
 ### Future Features:
 - Add functionality to Edit buttons
