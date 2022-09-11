@@ -23,7 +23,7 @@ This project was completed during our third week at Turing. It was our second so
 Jennifer Yacoubian ([GitHub](https://github.com/jmyacobn), [LinkedIn](https://www.linkedin.com/in/jennifer-yacoubian/))
 
 ### Learning Goals:
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
+- Gain experience building an application that utilizes HTML, CSS, and JavaScript
 - Write HTML and CSS to match a provided comp
 - Understand how to listen to and respond to user events
 - Individualize your programming skill set
