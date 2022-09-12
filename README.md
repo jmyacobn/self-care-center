@@ -15,8 +15,8 @@ Using JavaScript in conjunction with CSS and HTML, I designed a website that all
 
 ### Preview of App:
 You can visit the live site [here](https://jmyacobn.github.io/self-care-center/).
-![](https://drive.google.com/file/d/1Hnd7xxf-0FROn29ZIK-RPp6Y3IA8u6tm/view?usp=sharing)
-![](https://drive.google.com/file/d/1RJGfEzbdQgaRqs1dynbuDBtZw4nPye8O/view?usp=sharing)
+![My Remote Image](https://drive.google.com/file/d/1Hnd7xxf-0FROn29ZIK-RPp6Y3IA8u6tm/view?usp=sharing)
+![My Remote Image](https://drive.google.com/file/d/1RJGfEzbdQgaRqs1dynbuDBtZw4nPye8O/view?usp=sharing)
 
 ### Context:
 This project was completed during our third week at Turing. It was our second solo project, and we were given four days to complete it. The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html).
