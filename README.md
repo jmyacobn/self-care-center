@@ -19,7 +19,7 @@ You can visit the live site [here](https://jmyacobn.github.io/self-care-center/)
 ![My Remote Image](https://drive.google.com/file/d/1RJGfEzbdQgaRqs1dynbuDBtZw4nPye8O/view?usp=sharing)
 
 ### Context:
-This project was completed during our third week at Turing. It was our second solo project, and we were given four days to complete it. The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html).
+This project was completed during our third week at Turing. It was our second solo project, and we were given four days to complete it. The spec for this project can be found [here](https://frontend.turing.edu/projects/module-1/self-care-center.html).
 
 ### Contributors:
 Jennifer Yacoubian ([GitHub](https://github.com/jmyacobn), [LinkedIn](https://www.linkedin.com/in/jennifer-yacoubian/))
