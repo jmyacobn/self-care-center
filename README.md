@@ -17,6 +17,7 @@ Using JavaScript in conjunction with CSS and HTML, I designed a website that all
 You can visit the live site [here](https://jmyacobn.github.io/self-care-center/).
 
 [Image of Home view](https://drive.google.com/file/d/1Hnd7xxf-0FROn29ZIK-RPp6Y3IA8u6tm/view?usp=sharing)
+
 [Image of All Messages view](https://drive.google.com/file/d/1RJGfEzbdQgaRqs1dynbuDBtZw4nPye8O/view?usp=sharing)
 
 ### Context:
